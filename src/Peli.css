@@ -1,0 +1,35 @@
+.Board {
+    position: relative;
+    margin: 0 auto;
+    background-color: #007766;
+    background-image: linear-gradient(#1fd48e 1px, transparent 1px),
+    linear-gradient(90deg, #1fd48e 1px, transparent 1px);
+}
+.Cell {
+    background: linear-gradient(70deg, #1cffa3, #1fd48e);
+    position: absolute;
+    border-radius: 10px;
+}
+.alustabutton {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: lightsalmon;
+    border-color: brown;
+    color: brown;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+}
+.aloitabutton {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #00dd99;
+    border-color: #007766;
+    color: darkslategrey;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+}
+.controls {
+    color: lemonchiffon;
+}
