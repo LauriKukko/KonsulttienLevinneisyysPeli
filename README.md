@@ -1,3 +1,12 @@
+# Konsulttien Selviytymispeli
+
+## Tervetuloa järjestelemään konsulttiesi elämä niin, että he verkostoituessaan pääsevät pitkälle.
+
+Tämä projekti on pikakokeilu siitä, minkälaisia pelejä voisi Reactilla tehdä.
+
+Pelin idea on saada kuviot pyörimään kentällä mahdollisimman pitkään. Pelaajan tulee sijoitta palleroita kentälle ennen "pelaa"-napin painallusta ja sen jälkeen painaa "pelaa"-nappia. Jos pallerot jäävät jumiin, voi niitä auttaa myös kesken pelin sijoittamalla lisää nappuloita näiden viereen pelin aikana.
+
+### Seuraa ohjeita, jotta pääset asentamaan tarvittavat komponentit koneellesi. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
